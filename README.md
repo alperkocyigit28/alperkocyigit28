@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Alper Koçyiğit. I'm a freshman CS student at Bilkent University.
 
 <!--
 **alperkocyigit28/alperkocyigit28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
